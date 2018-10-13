@@ -5,8 +5,8 @@ about: Suggest an idea
 
 ### Checklist
 <!-- Mark these complete by putting an `x` in the brackets -->
- - [ ] My idea is ***not*** related to technical issue (use the *Bug Report* template instead)
- - [ ] My idea is ***not*** just a content update (use the *Content Update* template instead)
+ - [ ] My idea is ***not*** related to technical issue (use the *Bug report* template instead)
+ - [ ] My idea is ***not*** just a content update (use the *Content update* template instead)
  - [ ] I've discussed my idea with other team members who agree it's worthwhile (ask them to +1 this issue once you've submitted it)
 
 ### Is your feature request related to a problem? Please describe
