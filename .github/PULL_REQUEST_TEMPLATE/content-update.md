@@ -8,9 +8,10 @@ about: Change text or images
  - [ ] My change contains ***only*** text, images, data, or a combination (use the *General change* template for other changes)
  - [ ] My change is ***not*** inteded to fix a technical issue (use the *Bug fix* template instead)
  - [ ] Any new media to be added has been provided at the highest available quality
+ - [ ] I've tested my changes locally using the instructions in the docs (`bundle exec jekyll serve` etc.)
+ 
 **If an issue exists to request this change:**
  - [ ] The title contains the issue number where this change is requested (e.g. "Clarify copy on page x (#n)")
- - [ ] I've tested my changes locally using the instructions in the docs (`bundle exec jekyll serve` etc.)
 
 ### What is the nature of your change?
 <!-- Gramatical error, language clarification, general addition, etc. -->
