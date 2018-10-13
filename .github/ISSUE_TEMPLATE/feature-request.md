@@ -9,7 +9,7 @@ about: Suggest an idea
  - [ ] My idea is ***not*** just a content update (use the *Content update* template instead)
  - [ ] I've discussed my idea with other team members who agree it's worthwhile (ask them to +1 this issue once you've submitted it)
 
-### Is your feature request related to a problem? Please describe
+### Is your feature request related to a usability problem? Please describe
 <!-- A clear and concise description of what the problem is. Ex. I'm always frustrated when [...] -->
 
 ### Describe the solution you'd like
