@@ -4,6 +4,7 @@ about: Something doesn't look or behave correctly
 ---
 
 ### Checklist
+<!-- Mark these complete by putting an `x` in the brackets -->
  - [ ] My issue is ***not*** related to the content of the website (use the *Content update* template instead)
  - [ ] My issue ***is*** related to an existing problem. Solutions may be proposed as well, but enhancements that are ***not*** fixes should use the *Feature request* template instead
  - [ ] My issue persists after completely restarting my browser (closing *all* tabs)
